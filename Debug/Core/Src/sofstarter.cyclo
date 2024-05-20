@@ -1,0 +1,10 @@
+../Core/Src/sofstarter.c:10:15:Mag1_init	1
+../Core/Src/sofstarter.c:22:15:Mag2_init	1
+../Core/Src/sofstarter.c:34:15:Mag3_init	1
+../Core/Src/sofstarter.c:46:15:ReadFault	1
+../Core/Src/sofstarter.c:50:15:ReadReady	1
+../Core/Src/sofstarter.c:54:15:ReadOutput	1
+../Core/Src/sofstarter.c:58:15:ReadReset	1
+../Core/Src/sofstarter.c:62:15:Set_output_mag	1
+../Core/Src/sofstarter.c:67:15:Reset_sofstarter	3
+../Core/Src/sofstarter.c:80:6:Mag_struct_update	1

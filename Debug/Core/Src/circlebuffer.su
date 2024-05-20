@@ -1,0 +1,2 @@
+../Core/Src/circlebuffer.c:11:8:WriteToBuffer	24	static
+../Core/Src/circlebuffer.c:34:8:ReadFromBuffer	16	static

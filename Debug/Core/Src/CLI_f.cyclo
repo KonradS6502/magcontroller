@@ -1,0 +1,8 @@
+../Core/Src/CLI_f.c:16:9:test_CLI	1
+../Core/Src/CLI_f.c:26:9:get_status	1
+../Core/Src/CLI_f.c:35:9:get_all_status	1
+../Core/Src/CLI_f.c:47:9:mag_turn_on	1
+../Core/Src/CLI_f.c:57:9:mag_turn_off	1
+../Core/Src/CLI_f.c:66:9:mag_reset	1
+../Core/Src/CLI_f.c:77:9:mag_all_reset	2
+../Core/Src/CLI_f.c:91:9:terminal_switch	2
